@@ -1,2 +1,3 @@
 def fb(n):
-    pass
+    if n % 3 == 0:
+        return "Fizz"
