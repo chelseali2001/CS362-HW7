@@ -5,3 +5,5 @@ def fb(n):
         return "Fizz"
     elif n % 5 == 0:
         return "Buzz"
+
+    pass
