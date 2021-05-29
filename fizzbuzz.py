@@ -6,4 +6,4 @@ def fb(n):
     elif n % 5 == 0:
         return "Buzz"
 
-    pass
+    return n
