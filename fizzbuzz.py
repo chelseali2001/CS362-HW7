@@ -1,0 +1,2 @@
+def fb(n):
+    pass
