@@ -1,2 +1,5 @@
 def lp(n):
-    pass
+    if n % 4:
+        return "is a leap year"
+    else:
+        return "is not a leap year"
