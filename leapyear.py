@@ -1,0 +1,2 @@
+def lp(n):
+    pass
